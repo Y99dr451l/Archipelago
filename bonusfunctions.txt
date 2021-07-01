@@ -1,0 +1,14 @@
+add pendulaires
+dark mode
+rainbow button
+delete useless links button
+change type of selected node
+add coloreduce
+show path of different node
+link to previous node togglebutton
+align to grid
+reset size if selected node button
+move node while dragging
+enter size of node in textbox
+show stats of selected node
+path go through production node togglebutton
